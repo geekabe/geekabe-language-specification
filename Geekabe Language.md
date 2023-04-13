@@ -57,8 +57,8 @@ STRING_QUOTE: ' | "
 
 `use` `var` `fn` `ret` `type` `me`
 `u8` `u16` `u32` `u64` `uint` `int` `i8` `i16` `i32` `i64` `bool` `str`
-`partial` `pub` `inner` `private`
-`if` `switch` `case` `break` `loop` `of` `continue`
+`partial` `pub` `private`
+`if` `match` `break` `loop` `of` `continue`
 
 符号：
 
